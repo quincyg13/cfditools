@@ -1,0 +1,30 @@
+body{
+	background-color: #E9E9E9;
+}
+img{
+	width: 100%;
+}
+div #contenedor{
+	width: 900px;
+	margin-top: 10px;
+}
+div #contenido{
+background-color: #fff;
+width: 900px;
+min-height: 600px;
+margin: auto;
+}
+div #header {
+	background-color: #fff;
+	width: 900px;
+	margin: auto;
+}
+div #encabezado {
+	
+}
+div .logo{
+	background-color: red;
+	float: left;
+	height: 50px;
+}
+
